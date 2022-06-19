@@ -14,7 +14,7 @@
 "spider":"https://cdn.jsdelivr.net/gh/yiqizouba/cfef/xm/xm.txt",
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":[
-"proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL3lpcWl6b3ViYS9jZmVmL2xpdmUudHh0"
+"proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL3lpcWl6b3ViYS9jZmVmL2xpdmU="
 ]}]}],
 
 
